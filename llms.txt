@@ -1,0 +1,14 @@
+# Week of Data
+
+> One week, one location for a week of data community events. Week of Data is a community movement: once the calendar reaches 100 subscribers, the community collectively decides on the first week and location for the inaugural Week of Data.
+
+## Links
+
+- Calendar: https://luma.com/weekofdata?k=c
+- Organizer: Alex Merced (https://alexmerced.com)
+- Community hub: https://datalakehousehub.com
+- Contact: WeekOfData@DataLakehouseHub.com
+
+## How to Participate
+
+Subscribe to the calendar on Luma. Once the week is determined, you can have your data event added to the official calendar by emailing WeekOfData@DataLakehouseHub.com.
