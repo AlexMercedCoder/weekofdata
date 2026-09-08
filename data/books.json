@@ -3,7 +3,7 @@
   "source": "https://alexmerced.com/entity/books.json",
   "catalog": "https://books.alexmerced.com/",
   "intro": "Books by Alex Merced on the topics the sessions cover: data engineering, lakehouse architecture, Apache Iceberg, and agentic analytics.",
-  "totalInCatalog": 65,
+  "totalInCatalog": 66,
   "count": 27,
   "books": [
     {
