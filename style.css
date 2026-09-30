@@ -305,3 +305,107 @@ body {
         font-size: 0.9rem;
     }
 }
+
+/* Coming-soon hero */
+.status-badge {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 999px;
+    background-color: var(--secondary-color);
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+}
+
+.hero-note {
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+}
+
+/* Luma calendar embed */
+.luma-embed {
+    margin: 1.5rem 0 0.75rem;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.luma-embed iframe {
+    display: block;
+    width: 100%;
+    height: 450px;
+    border: 0;
+}
+
+.event-list {
+    margin: 1rem 0 0 1.25rem;
+    line-height: 1.7;
+}
+
+.event-list a,
+.milestone-text a {
+    color: var(--primary-color);
+}
+
+/* Network CTA strip */
+.network-cta {
+    background-color: var(--surface-color);
+    border-top: 1px solid var(--border-color);
+    padding: 2.5rem 0;
+    margin-top: 3rem;
+}
+
+.network-cta__inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem 2rem;
+}
+
+.network-cta h2 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.network-cta__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
+
+/* Footer network groups */
+.footer-network {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+    gap: 1.5rem;
+    text-align: left;
+    margin-bottom: 1rem;
+}
+
+.footer-network__title {
+    font-weight: 500;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+
+.footer-network ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.8;
+}
+
+.footer-network__all {
+    margin-bottom: 1.5rem;
+}
+
+.network-cta + .footer {
+    margin-top: 0;
+}
